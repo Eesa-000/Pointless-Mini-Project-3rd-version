@@ -1,0 +1,2 @@
+Question1,answer1,90,answer2,80,answer3,60,answer4,1,answer5,0,answer6,0
+Question2,answer1,60,answer2,40,answer3,30,answer4,2,answer5,3,answer6,0
